@@ -65,8 +65,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Satyam/Satyam/output/snake.svg" alt="Snake animation" />
+###
+  ![snake_gif](https:github.com/SatyamSivamPal/SatyamSivamPal/blob/output/github-contribution-grid-snake.gif)
 
 ###
