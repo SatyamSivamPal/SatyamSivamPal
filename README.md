@@ -66,6 +66,6 @@
 ###
 
 ###
-  ![snake_gif](https:github.com/SatyamSivamPal/SatyamSivamPal/blob/output/github-contribution-grid-snake.gif)
+  ![snake_gif](https://github.com/SatyamSivamPal/SatyamSivamPal/blob/output/snake.svg)
 
 ###
