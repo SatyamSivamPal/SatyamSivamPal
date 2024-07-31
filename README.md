@@ -1,6 +1,7 @@
 ![Header](./github-banner.png)
 
-# 💫 About Me:
+[![](https://visitcount.itsvg.in/api?id=SatyamSivamPal&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🔭 I’m currently working on [Video Transcoder](https://github.com/SatyamSivamPal/video-transcoder)
@@ -18,29 +19,25 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1BzYmkY5j2XHRmlnzDBH16pRKQm3BxpAZ](https://drive.google.com/drive/folders/1BzYmkY5j2XHRmlnzDBH16pRKQm3BxpAZ)
 
 - ⚡ Fun fact **Why did the DevOps engineer go broke? Because they kept spending all their money on container orchestration!**
-
-
+  
 ###
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SatyamSivamPal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+&nbsp; <!-- Adds 1px space -->
 
----
-[![](https://visitcount.itsvg.in/api?id=SatyamSivamPal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Satyam&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamSivamPal&theme=dark&hide_border=false" alt="GitHub Streak" style="display: inline-block;"/>
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block;"/>
+  </div>
 </div>
 
+
 ###
+
+&nbsp; <!-- Adds 1px space -->
 
 <img align="right" height="155" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966"  />
 
