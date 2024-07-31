@@ -24,15 +24,13 @@
 
 &nbsp; <!-- Adds 1px space -->
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 10px; justify-content: center">
     <img src="https://github-readme-stats.vercel.app/api?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="display: inline-block;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamSivamPal&theme=dark&hide_border=false" alt="GitHub Streak" style="display: inline-block;"/>
-  </div>
+</div>
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamSivamPal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="display: inline-block;"/>
   </div>
-</div>
 
 
 
