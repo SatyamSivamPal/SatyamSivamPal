@@ -1,6 +1,16 @@
 ![Header](./github-banner.png)
 
-<h2 align="center">Hi 👋! My name is  Satyam and I'm a Full Stack Web Developer and a Devops Enthusiast.</h2>
+# 💫 About Me:
+<img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
+- 🔭 Currently engaged in Full Stack Development.  
+- 🌱 Constantly honing skills in **practicing DSA in Java and DevOps.**  
+- 👯 Open to collaborating on **full stack projects and Event Management.**  
+- 🤝 Seeking assistance and exploration in **DevOps practices.**  
+- 💭 Passionate about programming languages and all things related to Web Development.  
+- 😍 Enthusiast in **Listening to music, coding, and gaming.**  
+- 📫 Reach me at **tusharpanigrahi@gmail.com** for any inquiries.
+
 
 ###
 
