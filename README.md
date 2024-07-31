@@ -3,13 +3,21 @@
 # 💫 About Me:
 <img align="right" alt="coding" width="390" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
-- 🔭 Currently engaged in Full Stack Development.  
-- 🌱 Constantly honing skills in **practicing DSA in Java and DevOps.**  
-- 👯 Open to collaborating on **full stack projects and Event Management.**  
-- 🤝 Seeking assistance and exploration in **DevOps practices.**  
-- 💭 Passionate about programming languages and all things related to Web Development.  
-- 😍 Enthusiast in **Listening to music, coding, and gaming.**  
-- 📫 Reach me at **tusharpanigrahi@gmail.com** for any inquiries.
+- 🔭 I’m currently working on [Video Transcoder](https://github.com/SatyamSivamPal/video-transcoder)
+
+- 🌱 I’m currently learning **Grafana and Prometheus**
+
+- 🤝 I’m looking for help with **Cloud**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SatyamSivamPal](https://github.com/SatyamSivamPal)
+
+- 💬 Ask me about **Docker, Kubernetes**
+
+- 📫 How to reach me **palsatyam1968@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BzYmkY5j2XHRmlnzDBH16pRKQm3BxpAZ](https://drive.google.com/drive/folders/1BzYmkY5j2XHRmlnzDBH16pRKQm3BxpAZ)
+
+- ⚡ Fun fact **Why did the DevOps engineer go broke? Because they kept spending all their money on container orchestration!**
 
 
 ###
